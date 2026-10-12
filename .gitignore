@@ -1,0 +1,22 @@
+target/
+*.jar
+*.war
+*.class
+
+# H2 database
+data/
+*.mv.db
+*.trace.db
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS and logs
+.DS_Store
+Thumbs.db
+*.log
